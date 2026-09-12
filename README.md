@@ -32,7 +32,7 @@ Projeto desenvolvido para fins acadêmicos, aplicando conceitos de Engenharia de
 
 - 🎨 [Protótipo no Figma](https://www.figma.com/make/v6Wq09nRqBJO6YYNZ8bVh4/Stock-IA-prot%C3%B3tipo-simples?t=WQMhngoh7csI2T9i-1)
 - 📋 [Gerenciamento do Projeto no Trello](https://trello.com/invite/b/6aa333914aad18f2e2552dcc/ATTI78a18060b766c789578aa1fc10b752c00721CB9B/stock-ia-a3-projeto-e-engenharia-de-software)
-- 📝 Documentação no Notion — Em desenvolvimento
+- 📝 [Documentação completa no Notion](https://educated-beauty-f0b.notion.site/Stock-IA-Documenta-o-do-Projeto-3d7e1f04a01b80baafaef6cbb0b935b9)
 
 
 ## 🚧 Status do projeto
