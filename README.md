@@ -8,7 +8,7 @@ O Sistema de Estoque Inteligente tem como objetivo facilitar o controle e gerenc
 
 O projeto está sendo desenvolvido em equipe, passando pelas etapas de planejamento, levantamento de requisitos, modelagem, prototipação e desenvolvimento.
 
-# 🚀 Funcionalidades planejadas
+## 🚀 Funcionalidades planejadas
 
 - Cadastro de produtos
 - Consulta de produtos em estoque
